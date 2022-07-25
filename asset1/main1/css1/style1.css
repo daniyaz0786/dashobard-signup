@@ -1,0 +1,103 @@
+.craeteform {
+    font-size: 22px!important;
+    font-weight: 400;
+}
+.p {
+    font-size: 18px!important;
+}
+p {
+    color: red!important;
+    font-size: 15px!important;
+}
+input.form-control {
+    height: 40px!important;
+}
+a {
+    color: white!important;
+    font-size: 20px!important;
+    font-weight: 500!important;
+}
+/* .custom-file-input{
+    opacity: 1 !important;
+} */
+/* select, input[type="file"] {
+    height: 30px;
+    *margin-top: 4px;
+    line-height: 22px !important;
+} */
+.box {
+    background-color: #e9dada80; 
+     box-shadow: 0 .5rem 1rem rgba(0,0,0,.15)!important; 
+     border-bottom-left-radius: 0.3rem !important;
+     border-bottom-right-radius: 0.3rem !important;
+}
+form {
+    /* margin-top: 30px; */
+    padding: 35px !important;
+}
+body {
+    margin: 0;
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 14px;
+    line-height: 20px;
+    color: #333333;
+    background-color: #d7b3b3e0 !important;
+}
+span {
+    float: right;
+    margin-top: -32px;
+    margin-right: 10px;
+}
+.label {
+    font-size: 16px !important;
+    font-weight: 600 !important;
+}
+.form-check-inputs{
+    position: absolute;
+    margin-top: 0.3rem;
+    margin-left: -1.25rem;
+    position: inherit!important;
+    margin-top: 5px !important;
+}
+.form-check {
+    position: relative;
+    display: block;
+    padding-left: 0.25rem !important;
+    margin-left: -15px;
+}
+.boximg {
+    border-top-left-radius: 0.3rem !important;
+    border-top-right-radius: 0.3rem !important;
+}
+.h1{
+    font-size: 31px !important;
+    margin-left: 25px !important;
+    margin-top: 10px !important;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
